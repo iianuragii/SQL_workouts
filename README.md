@@ -1,2 +1,3 @@
 # SQL_workouts
-This repo contains some of my work on SQL queries
+This repo contains some of my work on SQL.
+Database used: Oracle
